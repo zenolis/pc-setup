@@ -7,9 +7,11 @@
 $appList=@(
   "Notion.Notion",
   "Google.chrome",
-  "7zip.7zip"
+  "7zip.7zip",
   "Microsoft.VisualStudioCode",
   "Microsoft.VisualStudio.2019.BuildTools",
+  "Microsoft.SQLServer.2019.Express",
+  "Microsoft.SQLServerManagementStudio",
   "Microsoft.PowerShell",
   "Microsoft.WindowsTerminal",
   "Microsoft.PowerToys",
