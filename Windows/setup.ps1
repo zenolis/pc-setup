@@ -5,28 +5,28 @@
 # Install list
 ##############################################################
 $appList=@(
-  "Notion.Notion",
-  "Google.chrome",
-  "7zip.7zip",
-  "Microsoft.VisualStudioCode",
-  "Microsoft.VisualStudio.2019.BuildTools",
-  "Microsoft.SQLServer.2019.Express",
-  "Microsoft.SQLServerManagementStudio",
-  "Microsoft.PowerShell",
-  "Microsoft.WindowsTerminal",
-  "Microsoft.PowerToys",
-  "Microsoft.AzureCLI",
-  "Microsoft.AzureStorageExplorer",
-  "Canonical.Ubuntu",
-  "Git.Git",
-  "TortoiseGit.TortoiseGit",
-  "Docker.DockerDesktop",
-  "Postman.Postman",
-  "Python.Python.3",
-  "GoLang.Go",
-  "Oracle.JDK.17",
-  "Graphviz.Graphviz",
-  "vim.vim",
+  "Notion.Notion"
+  "Google.chrome"
+  "7zip.7zip"
+  "Microsoft.VisualStudioCode"
+  "Microsoft.VisualStudio.2019.BuildTools"
+  "Microsoft.SQLServer.2019.Express"
+  "Microsoft.SQLServerManagementStudio"
+  "Microsoft.PowerShell"
+  "Microsoft.WindowsTerminal"
+  "Microsoft.PowerToys"
+  "Microsoft.AzureCLI"
+  "Microsoft.AzureStorageExplorer"
+  "Canonical.Ubuntu"
+  "Git.Git"
+  "TortoiseGit.TortoiseGit"
+  "Docker.DockerDesktop"
+  "Postman.Postman"
+  "Python.Python.3"
+  "GoLang.Go"
+  "Oracle.JDK.17"
+  "Graphviz.Graphviz"
+  "vim.vim"
   "Volta.Volta"
 )
 
