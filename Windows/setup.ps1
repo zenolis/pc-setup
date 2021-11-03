@@ -31,7 +31,7 @@ $appList=@(
 )
 
 ##############################################################
-# Install function
+# Installation execution
 ##############################################################
 function exec_search_app($app) {
   return $installed_lists | Out-String -Stream | Select-String $app
